@@ -30,10 +30,10 @@ Sample output
 */
 import java.util.*;
 public class Millionaire
-{   static  Scanner in=new Scanner(System.in);
+{
     public static void main(String args[])
     {
-    
+     Scanner in=new Scanner(System.in);
 int[] num = new int[3];
 int temp = 0;
 int temp1 = 0;
